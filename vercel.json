@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/create-ticket",
+      "destination": "https://discord.gg/complaint",
+      "permanent": false
+    }
+  ]
+}
